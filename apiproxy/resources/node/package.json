@@ -1,0 +1,17 @@
+{
+  "name": "node-formidable",
+  "version": "1.0.0",
+  "description": "handles form uploads via nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dino Chiesa <dchiesa@google.com>",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": "0.10.32"
+  },
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
