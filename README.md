@@ -1,3 +1,7 @@
+# ouT OF DaTe
+
+As of January 2022, this repo is out of date. It shows how to use hosted targets within Apigee, a feature which is now deprecated. If you want to run nodejs apps or services, consider using AppEngine or Cloud Run.
+
 # Demonstration of nodejs + formidable within Apigee Edge
 
 This api proxy demonstrates the use of the npm module 'formidable' within the nodejs code in a hosted target in Apigee Edge. There is also some legacy code that shows the use of this module within a nodejs target; Apigee recommends that you use hosted targets.
